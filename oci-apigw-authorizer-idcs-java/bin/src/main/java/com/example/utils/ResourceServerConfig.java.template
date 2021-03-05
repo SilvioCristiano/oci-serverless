@@ -14,12 +14,12 @@ package com.example.utils;
 public class ResourceServerConfig {
 
     //YOUR IDENTITY DOMAIN AND APPLICATION CREDENTIALS
-    public static final String CLIENT_ID = "IDeaa1da5a70f94b75810af193f51413c0";
-    public static final String CLIENT_SECRET = "Secretf785c93d-4137-474e-b5a3-8bbc12226b0c";
-    public static final String IDCS_URL = "https://idcs-43365cb8d1d94739864d08c3a4fa7d24.identity.oraclecloud.com/";
+    public static final String CLIENT_ID = "";
+    public static final String CLIENT_SECRET = "";
+    public static final String IDCS_URL = "";
 
     //INFORMATION ABOUT THE TARGET APPLICATION
-    public static final String SCOPE_AUD = "display-httprequest-info";
+    public static final String SCOPE_AUD = "http://service1";
 
     //TEST CLIENT CREDENTIALS
     public static final String TEST_CLIENT_ID = "";
